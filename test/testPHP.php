@@ -5,7 +5,7 @@
     <meta charset="utf-8">
 </head>
 <body>
-<a href="#bottom">到底部</a>
+<a href="#bottom">到底部2</a>
 <!--<p id="p1">1111</p>-->
 <?php
     $x = 15555; // global scope

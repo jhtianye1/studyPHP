@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="studyPHP" uploadOnCheckin="38e24314-b297-4208-a26b-2415627223cb">
+  <component name="PublishConfigData" autoUpload="Always" serverName="studyPHP" uploadOnCheckin="c220b2be-e2b6-4edd-80b6-b0fb268b0855">
     <serverData>
       <paths name="hongkong133">
         <serverdata>
@@ -17,7 +17,7 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="亚韩国际美容医院133" />
+    <option name="myUploadOnCheckinName" value="studyPHP" />
     <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
