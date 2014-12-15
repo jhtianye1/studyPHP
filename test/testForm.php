@@ -20,14 +20,14 @@
         $data = trim($data); //去除空格
         $data = stripslashes($data); // 剥除反斜杠  这个功能不行, \不会被删除, w3school网站上同样的代码就可以, 估计是服务器
 //        的php版本问题
-        $data = htmlspecialchars($data); //剥除特殊字符
+        $data = htmlspecialchars($data); //剥除特殊字符1
 
         return $data;
     }
 
 ?>
 <a href="#">dddd</a>
-<h2>PHP 验证实例</h2>
+<h2>PHP 验证实例22</h2>
 
 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
     姓名：<input type="text" name="name">

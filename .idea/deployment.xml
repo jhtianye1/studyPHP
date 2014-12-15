@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="studyPHP" uploadOnCheckin="38e24314-b297-4208-a26b-2415627223cb">
+    <serverData>
+      <paths name="hongkong133">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="D:/" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="studyPHP">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="亚韩国际美容医院133" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
+
