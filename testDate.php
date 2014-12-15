@@ -45,7 +45,7 @@
     $d = strtotime("april 10:38pm  15 2015");
     echo "创建日期 " . date("Y-m-d h:i:sa", $d) . "</br>";
 
-    //<hr>PHP strtotime函数 在将字符串转换为日期这方面非常聪明，所以您能够使用各种值：</br>
+    //<hr>PHP strtotime函数 在将字符串转换为日期这方面非常聪明，所以您能够使用各种值 ：</br>
     echo "<hr>PHP strtotime函数 在将字符串转换为日期这方面非常聪明，所以您能够使用各种值：</br>";
     echo "tomorrow" . "</br>";
     $d = strtotime("tomorrow");
