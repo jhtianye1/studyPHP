@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<a href="http://test.huasushidai.com/testBadUrl.html/%22%3E%3Cscript%3Ealert('hacked')%3C/script%3E"> 这个破坏性的url测试,
+    如果指向那个php文件就会转向弹窗,因为php里面有echo和全局sever函数会接收并处理这个链接; 如果指向自己是无效的, 因为那个地址没有东西,返回404 NO FOUND错误.</a>
+
+<form action="<? php;    echo($_SERVER[' PHP_SELF'])?>">
+
+</form>
+<?php
+ echo "dfdf"
+?>
+</body>
+</html>
